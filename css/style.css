@@ -168,6 +168,10 @@ hr {
     align-items: center;
     flex-wrap: wrap;
 }
+.partners-container img{
+    height: 100px;
+    padding: 0 10px;
+}
 
 /* ! Footer */
 footer {
