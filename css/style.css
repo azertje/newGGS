@@ -479,7 +479,9 @@ label #cancel {
     .lang-container span {
         font-size: 16px;
     }
-    
+    .nav-card span {
+        text-align: center;
+    }
     .section-test {
         background-image: none;
         height: auto;
@@ -534,9 +536,6 @@ label #cancel {
 }
 
 @media only screen and (max-width: 375px) {
-    .nav-card span {
-        text-align: center;
-    }
     .contact-main {
         padding: 50px 25px 0 0;
     }
